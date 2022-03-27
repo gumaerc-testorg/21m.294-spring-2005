@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eaf3e45e-866c-a175-df59-60890670d7df
 resourcetype: Document
 title: 'SMAP: A case-study of J-pop'
 uid: c9915c04-cc2b-e64b-5f02-55f6a9f1cfcc
