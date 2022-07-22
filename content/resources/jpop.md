@@ -5,6 +5,7 @@ file: /courses/21m-294-popular-musics-of-the-world-spring-2005/c9915c04cc2be64b5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'SMAP: A case-study of J-pop'
 uid: c9915c04-cc2b-e64b-5f02-55f6a9f1cfcc
 ---
 Example of student work: a case-study of Japanese pop music.
-
