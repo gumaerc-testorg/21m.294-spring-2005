@@ -174,7 +174,7 @@ First Exam
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture by Benjamin Herson ([Nomadic Wax](http://www.nomadicwax.com/))
+Guest Lecture by Benjamin Herson ([Nomadic Wax](https://en.wikipedia.org/wiki/Nomadic_Wax#:~:text=Nomadic%20Wax%20is%20an%20international,hip%2Dhop%20and%20underground%20music.))
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}

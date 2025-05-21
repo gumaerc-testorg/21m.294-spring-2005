@@ -1,16 +1,15 @@
 ---
 content_type: page
 description: This section presents a few links to online world music resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: edd3285b-c129-e2ed-ab95-49975db80155
 ---
-
 This page presents a few links to online world music resources.
 
-Not-for-Profit Concert Presenters
----------------------------------
+## Not-for-Profit Concert Presenters
 
 [World Music/CRASHArts](http://www.worldmusic.org/) - Boston area
 
@@ -18,9 +17,8 @@ Not-for-Profit Concert Presenters
 
 [Afropop Worldwide](http://afropop.org/) - Affiliated with the NPR radio program of the same name
 
-Sources of "hard to find" Recordings
-------------------------------------
+## Sources of "hard to find" Recordings
 
-[Calabash Music](http://www.calabashmusic.com/) - A "fair trade" distributor and retailer
+[Calabash Music](https://en.wikipedia.org/wiki/Calabash_Music#:~:text=Calabash%20Music%20was%20an%20online,the%20music%20service%20in%202012.) - A "fair trade" distributor and retailer
 
-[Stern's Music](http://www.sternsmusic.com/)
+[Stern's Music](https://sternsmusic.bandcamp.com/)
